@@ -14,3 +14,24 @@ There are several places where our community meets. Make sure to check them out!
 - ▶️ [YouTube](https://www.youtube.com/@DevHeads)
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/company/devheadscommunity/)
 - 🐤 [Twitter](https://twitter.com/DevHeadsComm)
+
+## Projects
+### Modbus
+
+### Motor Control
+
+### Artificial Intelligence
+
+### FreeRTOS
+
+### Arduino
+
+### Power systems
+
+### Sensors
+
+### Tracing and debugging
+
+### FPGAs
+
+### PCB and Schematics
