@@ -1,4 +1,4 @@
-![Banner](./composite_banner_dark.png)
+![Banner](./devheads_banner_colors.png)
 <br>
 
 
@@ -13,7 +13,7 @@
 
 ## About
 
-Edge Computing Workbench is a community of professional hardware and software developers working on embedded, IoT and edge systems. The team behind it is made up of embedded engineers, technical writers and developer relations professionals, so the work covers both building the systems and documenting and explaining them. We share real-world engineering knowledge and peer review to help developers build, ship and deploy electronic systems faster.
+DevHeads (Edge Computing Workbench TEAM) is a community of professional hardware and software developers working on embedded, IoT and edge systems. The team behind it is made up of embedded engineers, technical writers and developer relations professionals, so the work covers both building the systems and documenting and explaining them. We share real-world engineering knowledge and peer review to help developers build, ship and deploy electronic systems faster.
 
 ## What we work on
 
