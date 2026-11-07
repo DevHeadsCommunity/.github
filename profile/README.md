@@ -1,70 +1,43 @@
-![Banner](./banner.png)
+![Banner](./composite_banner_dark.png)
 <br>
 
-The DevHeads IoT Integration Server is a community of professional hardware and software developers who collaborate to solve 
-complex system design and engineering challenges. The community accelerates the development, commercialization, and deployment
-of electronic systems by sharing real-world knowledge, experience, and validating peers.
 
-## Get Involved in our Community!
+> **DevHeads is now Edge Computing Workbench (ECW).**
+> Same team, same community, new name. The DevHeads IoT Integration Community has moved to Edge Computing Workbench. The repositories in this organization stay here and remain maintained by the same people.
 
-There are several places where our community meets. Make sure to check them out!
+<p align="center">
+  <a href="https://www.edgebench.io"><img src="https://img.shields.io/badge/Website-edgebench.io-2bb3a3?style=for-the-badge" alt="Website"></a>
+  <a href="https://discord.com/invite/edgebench"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.linkedin.com/company/edgebench/home/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-- 📝 [Website](https://devheads.io/)
-- 💬 [Discord](https://discord.gg/devheads)
-- ▶️ [YouTube](https://www.youtube.com/@DevHeads)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/company/devheadscommunity/)
-- 🐤 [Twitter](https://twitter.com/DevHeadsComm)
+## About
 
-## Projects
-### Modbus
-- [Modbus Tcp Slave](https://github.com/DevHeadsCommunity/modbusTcpSlave)
-- [Modbus Master](https://github.com/DevHeadsCommunity/modbusMaster)
-- [Modbus Slave](https://github.com/DevHeadsCommunity/modbusSlave)
+Edge Computing Workbench is a community of professional hardware and software developers working on embedded, IoT and edge systems. The team behind it is made up of embedded engineers, technical writers and developer relations professionals, so the work covers both building the systems and documenting and explaining them. We share real-world engineering knowledge and peer review to help developers build, ship and deploy electronic systems faster.
 
-### Motor Control
-- [BLDC Motor Controller](https://github.com/DevHeadsCommunity/BLDC_MOTOR_CONTROLLER)
-- [An FOC implementation](https://github.com/DevHeadsCommunity/Mordor)
-- [CAN Motor Driver](https://github.com/DevHeadsCommunity/CANMotorDriver)
+## What we work on
 
-### Display
-- [Linux HMI](https://github.com/DevHeadsCommunity/motor-control-linux-HMI)
-- [LVGL with STM32F4](https://github.com/DevHeadsCommunity/STM32F4_lvgl)
+- **RTOS and embedded Linux:** Zephyr RTOS, FreeRTOS, and Yocto-based Linux builds
+- **Multi-vendor hardware:** MCUs and SoCs from ST, NXP, Nordic, Microchip, Renesas and Arduino, plus Linux-class boards
+- **Simulation and testing:** The EdgeBench platform supports emulated sensors, with public demo code anyone can use to start building on supported boards
+- **Security:** Trusted Firmware-M (TF-M), Arm TrustZone, secure boot
+- **Connectivity and protocols:** wired and wireless communication stacks, from on-board buses up to cloud IoT protocols
 
-### Artificial Intelligence
-- [Screw Type Detection Using ESP-EYE and TensorFlow Lite Micro](https://github.com/DevHeadsCommunity/machine_learning_microcontroller)
-- [FreeRTOS Gesture Matching](https://github.com/DevHeadsCommunity/FreeRTOS_Gesture_Matching)
-- [Object Detection on ESPCAM](https://github.com/DevHeadsCommunity/Deploy-Edge-Impulse-Object-Detection-Model-on-ESPCAM)
-- [Traning Hand Gesture Recognition Using TensorFlow Lite](https://github.com/DevHeadsCommunity/training-gesture-with-tflite)
-- [Automated Egg Counting System](https://github.com/DevHeadsCommunity/Automated-Egg-Counting-System)
-- [Abandoned Object Detection](https://github.com/DevHeadsCommunity/PICMG-Abandoned-Object)
 
-### FreeRTOS
-- [FreeRTOS on the Blackpill](github.com/DevHeadsCommunity/FreeRTOS-BlackPill)
-- [FreeRTOS samples](https://github.com/DevHeadsCommunity/FreeRTOS_samples)
-- [TensorFlow Lite Micro with FreeRTOS](https://github.com/DevHeadsCommunity/STM32_TFLM_With_FreeRTOS)
+This organization holds the open-source code behind that work: firmware, samples, demos and tooling from community builds.
 
-### Arduino
-- [Classic Bluetooth and BLE](https://github.com/DevHeadsCommunity/How_To_Work_With_Classic_Bluetooth_And_BLE)
-- [ESP32 webserver](https://github.com/DevHeadsCommunity/How_To_Build_Webserver_On_ESP32_Dev_Kit)
-- [MAX30102](https://github.com/DevHeadsCommunity/MAX30102_by_RF)
+## What changed
 
-### Power systems
-- [Open Inverter](https://github.com/DevHeadsCommunity/OpenInverterFirmware)
+| Before | Now |
+|---|---|
+| DevHeads | Edge Computing Workbench (ECW) |
+| devheads.io | [edgebench.io](https://www.edgebench.io) |
+| DevHeads Discord | [ECW Discord](https://discord.com/invite/edgebench) |
+| DevHeads LinkedIn | [ECW LinkedIn](https://www.linkedin.com/company/edgebench/home/) |
 
-### Sensors
-- [Zynq](https://github.com/DevHeadsCommunity/zynq_sensor_fir_demo)
+## Get involved
 
-### Tracing and debugging
-- [Real Time Transfer (RTT)](https://github.com/DevHeadsCommunity/RTT)
-- [Serial Wire Viewer](https://github.com/DevHeadsCommunity/SWV)
-- [Debugging with STM32CubeIDE](https://github.com/DevHeadsCommunity/ep1-debug-stm32)
-
-### FPGAs
-- [FPGA Finite State Machine](https://github.com/DevHeadsCommunity/fpga_fsm_demo)
-
-### PCB and Schematics
-- [An STM32 Cortex M0 development board](https://github.com/DevHeadsCommunity/DEV_BOARD)
-
-### Build Systems
-- [Building CMSIS with Bazel](https://github.com/DevHeadsCommunity/STM32_CMSIS_With_Bazel)
+- 🌐 Website: [edgebench.io](https://www.edgebench.io)
+- 💬 Discord: [discord.com/invite/edgebench](https://discord.com/invite/edgebench)
+- 💼 LinkedIn: [linkedin.com/company/edgebench](https://www.linkedin.com/company/edgebench/home/)
 
