@@ -19,6 +19,8 @@ From a secure web console you can:
 - Work with microcontroller and processor boards from multiple vendors
 - Configure peripherals and flash firmware remotely
 - Run hardware-in-the-loop (HIL) tests against real devices
+- Start interactive debug sessions on live boards and step through your code in real time
+- Deploy firmware to physical boards directly from VS Code with the EdgeBench extension
 
 Alongside the remote lab, EdgeBench publishes tutorials, technical articles, application notes and working code written by embedded engineers, so you spend less time on setup and more time on your application.
 
