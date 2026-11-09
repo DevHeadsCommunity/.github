@@ -1,9 +1,6 @@
-![Banner](./devheads_banner_colors.png)
+![Banner](./EB_LOGO_claim_horizontal_RGB.png)
 <br>
 
-
-> **DevHeads is now Edge Computing Workbench (ECW).**
-> Same team, same community, new name. The DevHeads IoT Integration Community has moved to Edge Computing Workbench. The repositories in this organization stay here and remain maintained by the same people.
 
 <p align="center">
   <a href="https://www.edgebench.io"><img src="https://img.shields.io/badge/Website-edgebench.io-2bb3a3?style=for-the-badge" alt="Website"></a>
@@ -13,7 +10,21 @@
 
 ## About
 
-DevHeads (Edge Computing Workbench TEAM) is a community of professional hardware and software developers working on embedded, IoT and edge systems. The team behind it is made up of embedded engineers, technical writers and developer relations professionals, so the work covers both building the systems and documenting and explaining them. We share real-world engineering knowledge and peer review to help developers build, ship and deploy electronic systems faster.
+### The platform
+
+[EdgeBench](https://www.edgebench.io) is a fully remote, vendor-agnostic platform for embedded development. It gives engineers access to real hardware from the browser, so you can develop, test and evaluate embedded systems without having the board on your desk.
+
+From a secure web console you can:
+
+- Work with microcontroller and processor boards from multiple vendors
+- Configure peripherals and flash firmware remotely
+- Run hardware-in-the-loop (HIL) tests against real devices
+
+Alongside the remote lab, EdgeBench publishes tutorials, technical articles, application notes and working code written by embedded engineers, so you spend less time on setup and more time on your application.
+
+### The team
+
+Edge Computing Workbench is built by a community of professional hardware and software developers working on embedded, IoT and edge systems. The team includes embedded engineers, technical writers and developer relations professionals, so we build the systems and also document and explain them. We share real-world engineering knowledge and peer review to help developers build, ship and deploy electronic systems faster.
 
 ## What we work on
 
