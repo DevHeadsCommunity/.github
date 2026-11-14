@@ -39,15 +39,6 @@ Edge Computing Workbench is built by a community of professional hardware and so
 
 This organization holds the open-source code behind that work: firmware, samples, demos and tooling from community builds.
 
-## What changed
-
-| Before | Now |
-|---|---|
-| DevHeads | Edge Computing Workbench (ECW) |
-| devheads.io | [edgebench.io](https://www.edgebench.io) |
-| DevHeads Discord | [ECW Discord](https://discord.com/invite/edgebench) |
-| DevHeads LinkedIn | [ECW LinkedIn](https://www.linkedin.com/company/edgebench/home/) |
-
 ## Get involved
 
 - 🌐 Website: [edgebench.io](https://www.edgebench.io)
